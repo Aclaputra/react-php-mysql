@@ -1,9 +1,13 @@
 import React from 'react'
+import Header from './Header'
+import DaftarProduk from './DaftarProduk'
 
+// Layout Website
 function App() {
     return (
         <div>
-            <h2 className="text-secondary text-center mt-4">This is App.js</h2>
+            <Header />
+            <DaftarProduk />
         </div>
     )
 }
