@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import axios from 'axios'
+import CardProduk from './CardProduk';
 
 export class DaftarProduk extends Component {
     /**
@@ -22,9 +23,22 @@ export class DaftarProduk extends Component {
     }
 
     render() {
+
+        /**
+         * map state(variabel) dari produk ke variabel renderData dengan mengambil data dari CardProduk.js
+         * pass data dari axios get menggunakan props ke file CardProduk.js
+         * then->
+         * panggil render data dan tampilkan pada daftarProduk layout.
+         */
+        const renderData = this.state.produk.map(produk => {
+            return(
+                <CardProduk produk={produk} key={produk.id}/>
+            )
+        })
+
         return (
             <div>
-                Daftar Produk
+                {renderData}
             </div>
         )
     }
