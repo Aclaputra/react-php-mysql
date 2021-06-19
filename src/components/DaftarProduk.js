@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import axios from 'axios'
 import CardProduk from './CardProduk';
+import API from '../axios/Api'
 
 export class DaftarProduk extends Component {
     /**
@@ -14,7 +14,7 @@ export class DaftarProduk extends Component {
     }
 
     async componentDidMount() {
-        await axios.get('http://localhost/tokoAPI/ambildata.php')
+        await API.get('ambildata.php')
         .then(response => this.setState({
             produk: response.data
         }))
@@ -37,8 +37,10 @@ export class DaftarProduk extends Component {
         })
 
         return (
-            <div>
-                {renderData}
+            <div className="container">
+                <div className="row d-flex justify-content-evenly">
+                    {renderData}
+                </div>
             </div>
         )
     }
