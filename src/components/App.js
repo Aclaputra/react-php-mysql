@@ -1,14 +1,16 @@
 import React from 'react'
+import {BrowserRouter, Router} from 'react-router-dom'
+
 import Header from './Header'
 import DaftarProduk from './DaftarProduk'
 
 // Layout Website
 function App() {
     return (
-        <div>
+        <BrowserRouter>
             <Header />
             <DaftarProduk />
-        </div>
+        </BrowserRouter>
     )
 }
 export default App
