@@ -2,11 +2,11 @@ import React from 'react'
 
 function CardProduk({produk}) {
     return (
-        <div className="col-md-3 card">
+        <div className="col-md-3 card m-2 p-4">
             <h3>{produk.nama_produk}</h3>
-            <p>{produk.harga}</p>
-            <p>{produk.deskripsi}</p>
-            <p>{produk.stok}</p>
+            <small>{produk.deskripsi}</small>
+            <p>Harga : Rp. {produk.harga},-</p>
+            <p>Stok :{produk.stok}</p> 
         </div>
     )
 }
