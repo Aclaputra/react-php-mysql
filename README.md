@@ -1,4 +1,5 @@
-# React PHP Axios Mysql CRUD
+# ⚗— react-php-mysql
+Built CRUD React app with PHP as backend using Axios for REST API to MySQL
 
 # Getting Started with Create React App
 
