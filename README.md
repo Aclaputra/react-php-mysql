@@ -12,7 +12,7 @@ https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloan
 ![](readme_img/locate.PNG)
 ## Read your data with php as backend from mysql Success.
 ![](readme_img/read.PNG)
-
+## Create. Update. Delete soon!
 
 
 # Getting Started with Create React App
