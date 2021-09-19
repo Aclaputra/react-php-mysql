@@ -9,6 +9,7 @@ https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloan
 ## now locate your connections/ambildata.php
 ![](readme_img/api_data.PNG)
 ![](readme_img/locate.PNG)
+## Read your data with php from mysql data Success.
 ![](readme_img/read.PNG)
 
 
