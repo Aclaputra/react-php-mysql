@@ -7,7 +7,12 @@ https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloan
 ## its gone
 ![](readme_img/its_gone.PNG)
 ## now locate your connections/ambildata.php
+![](readme_img/api_data.PNG)
+![](readme_img/locate.PNG)
 ![](readme_img/read.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
