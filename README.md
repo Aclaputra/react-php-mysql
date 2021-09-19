@@ -1,6 +1,13 @@
 # ⚗— react-php-mysql
 Built CRUD React app with PHP as backend using Axios for REST API to MySQL
 
+## if this happen, install Extension access-control-allow-origin
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en-US
+![](readme_img/allow.PNG)
+## its gone
+![](readme_img/its_gone.PNG)
+## now locate your connections/ambildata.php
+![](readme_img/read.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
