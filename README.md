@@ -2,7 +2,7 @@
 Built CRUD React app with PHP as backend using Axios for REST API to MySQL
 
 ## if this happen, install Extension access-control-allow-origin
-https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en-US
+Link extension to unblock access-control-allow-origin -> https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en-US
 ![](readme_img/allow.PNG)
 ## its gone
 ![](readme_img/its_gone.PNG)
