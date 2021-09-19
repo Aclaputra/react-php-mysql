@@ -8,6 +8,7 @@ https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloan
 ![](readme_img/its_gone.PNG)
 ## now locate your connections/ambildata.php
 ![](readme_img/api_data.PNG)
+## open ./src/axios/Api.js then add your own connections/ambildata.php link
 ![](readme_img/locate.PNG)
 ## Read your data with php as backend from mysql Success.
 ![](readme_img/read.PNG)
