@@ -10,7 +10,7 @@ Link extension to unblock access-control-allow-origin -> https://chrome.google.c
 ![](readme_img/api_data.PNG)
 ## open ./src/axios/Api.js then add your own connections/ambildata.php link
 ![](readme_img/locate.PNG)
-## Read your data with php as backend from mysql Success.
+## Read data with php as backend from mysql Success.
 ![](readme_img/read.PNG)
 ## Create. Update. Delete soon!
 
