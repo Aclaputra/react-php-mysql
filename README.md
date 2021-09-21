@@ -4,7 +4,7 @@ Lets Built CRUD React app with PHP as backend using Axios for REST API to MySQL
 ## if this happen, install Extension access-control-allow-origin
 Link extension to unblock access-control-allow-origin -> https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino/related?hl=en-US
 ![](readme_img/allow.PNG)
-## its gone
+## unblocked.
 ![](readme_img/its_gone.PNG)
 ## now locate your connections/ambildata.php
 ![](readme_img/api_data.PNG)
